@@ -1,11 +1,30 @@
 # kodebox-code-chain-connect
 
-## Categories
+Table of Contents
+=================
 
-* [Introduction to Codechain](#Introduction to Codechain)
-* [Blockchain games and GoCryptobot](#Blockchain games and GoCryptobot)
-* [CodeChain Deep Dive](#CodeChain Deep Dive)
-* [CodeChain Open Source and Roadmap](#CodeChain Open Source and Roadmap)
+* [kodebox\-code\-chain\-connect](#kodebox-code-chain-connect)
+  * [Introduction to Codechain](#introduction-to-codechain)
+    * [Market status](#market-status)
+    * [Codechain](#codechain)
+  * [Blockchain games and GoCryptobot](#blockchain-games-and-gocryptobot)
+    * [Blockchain games](#blockchain-games)
+    * [Blockchain games today](#blockchain-games-today)
+    * [GoCryptobot](#gocryptobot)
+    * [Market status](#market-status-1)
+    * [GoCryptobot](#gocryptobot-1)
+    * [Things to consider](#things-to-consider)
+  * [CodeChain Deep Dive](#codechain-deep-dive)
+    * [Table Of Contents](#table-of-contents)
+    * [PoW vs BFT](#pow-vs-bft)
+    * [CodeChain Consensus](#codechain-consensus)
+    * [Sharding](#sharding)
+    * [Storage](#storage)
+    * [Transactions](#transactions)
+    * [Scripting](#scripting)
+    * [Sync](#sync)
+    * [Network (P2P)](#network-p2p)
+  * [CodeChain Open Source and Roadmap](#codechain-open-source-and-roadmap)
 
 ## Introduction to Codechain
 
