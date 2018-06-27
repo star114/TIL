@@ -1,9 +1,9 @@
 # kodebox-code-chain-connect
 
-Table of Contents
-=================
+## Table of Contents
 
 * [kodebox\-code\-chain\-connect](#kodebox-code-chain-connect)
+  * [Table of Contents](#table-of-contents)
   * [Introduction to Codechain](#introduction-to-codechain)
     * [Market status](#market-status)
     * [Codechain](#codechain)
@@ -15,7 +15,7 @@ Table of Contents
     * [GoCryptobot](#gocryptobot-1)
     * [Things to consider](#things-to-consider)
   * [CodeChain Deep Dive](#codechain-deep-dive)
-    * [Table Of Contents](#table-of-contents)
+    * [Table Of Contents](#table-of-contents-1)
     * [PoW vs BFT](#pow-vs-bft)
     * [CodeChain Consensus](#codechain-consensus)
     * [Sharding](#sharding)
@@ -25,6 +25,8 @@ Table of Contents
     * [Sync](#sync)
     * [Network (P2P)](#network-p2p)
   * [CodeChain Open Source and Roadmap](#codechain-open-source-and-roadmap)
+    * [How to contribute](#how-to-contribute)
+    * [CodeChain projects](#codechain-projects)
 
 ## Introduction to Codechain
 
@@ -33,6 +35,7 @@ Table of Contents
 #### Blockchain Technologies Today
 
 No codes!
+
 It doesn't even need software engineers?
 
 #### How to build high performance blockchain
@@ -71,6 +74,7 @@ It doesn't even need software engineers?
 ### Codechain
 
 open-source blockchain project
+
 service specification (can change algorithm, network, performance, security...)
 
 * Game
@@ -104,9 +108,10 @@ scalability via sharding
 ### Blockchain games
 
 ERC20
+
 ERC721
-ex)
-crypto kitties
+
+ex) crypto kitties
 
 * unique cat
 * first service not in commerce business. (game)
@@ -114,7 +119,9 @@ crypto kitties
 #### CryptoKitties
 
 speculator leaves
+
 price is getting low.
+
 a lot of copies came out
 
 ### Blockchain games today
@@ -212,8 +219,7 @@ Does the digital asset enough value for leveraging blockchain?
 
 ### PoW vs BFT
 
-PoW - bitcoin, ethereum
-(Proof of Work)
+PoW - bitcoin, ethereum (Proof of Work)
 
 ### CodeChain Consensus
 
@@ -231,13 +237,14 @@ Separation between beacons and replicas
 
 ### Sharding
 
-One of Scalability Solution candidates
-Global root has only the root of the shards
-all assets are stored in the shards (separated, distributed)
+* One of Scalability Solution candidates
+* Global root has only the root of the shards
+* all assets are stored in the shards (separated, distributed)
 
 #### verification in same shard => how?
 
 Participants
+
 Gateway (service manager)
 
 * collect transactions
@@ -277,14 +284,15 @@ only Asset related job.
 
 #### actions
 
-collect transaction
--> gateway
--> parcel
--> network (nodes)
+1. collect transaction
+2. gateway
+3. parcel
+4. network (nodes)
 
 ### Scripting
 
 Native support for P2SH
+
 Guaranteed termination (not turing complete)
 
 * no loops
@@ -313,14 +321,15 @@ smaller state size
 
 #### Asset transfer
 
-Lockscript + unlockscript
-lockscript hash check
-unlockscript verification
-state => unlockscript => parameter => lockscript => return
+* Lockscript + unlockscript
+* lockscript hash check
+* unlockscript verification
+* state => unlockscript => parameter => lockscript => return
 
 ### Sync
 
 Full block synchronization
+
 pull gossip for block propagation (after mining)
 
 * requester have full control on bandwidth
@@ -348,29 +357,29 @@ Compressed subtree as state chunk
 
 #### Network extensions
 
-Pluggable extension mechanism
-Multiple extensions can perform the same task in different ways
-UDP for Session Initiator (fixed protocol)
-TCP for P2P connection
+* Pluggable extension mechanism
+* Multiple extensions can perform the same task in different ways
+* UDP for Session Initiator (fixed protocol)
+* TCP for P2P connection
 
 #### Peer discovery
 
-Discovery is one of extensions
-network formation and policy can be changed
-Unstructured and Kademlia discovery is implemented (customized)
+* Discovery is one of extensions
+* network formation and policy can be changed
+* Unstructured and Kademlia discovery is implemented (customized)
 
 #### Session initiation
 
-ECDH
-Share session without network
+* ECDH
+* Share session without network
 
 #### Authentication
 
-Each connection has a unique session key
-all messgaes have signature field
-header - version, extension/name,version
-body - ase256/or not
-signature - black2b
+* Each connection has a unique session key
+* all messgaes have signature field
+* header - version, extension/name,version
+* body - ase256/or not
+* signature - black2b
 
 #### Extension API
 
@@ -378,8 +387,13 @@ can contribute easily
 
 ## CodeChain Open Source and Roadmap
 
-[github](https://github.com/CodeChain-io/codechain)
-[gitter](https://gitter.im/CodeChain-io/codechain)
-rust based
-rustup
-javascript sdk
+### How to contribute
+
+* [github](https://github.com/CodeChain-io/codechain)
+* [gitter](https://gitter.im/CodeChain-io/codechain)
+
+### CodeChain projects
+
+* rust based
+* rustup
+* javascript sdk
