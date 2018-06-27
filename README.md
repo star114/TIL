@@ -6,17 +6,22 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Conference](#conference)
 * [Cpp](#cpp)
 * [Effective-cpp](#effective-cpp)
 * [Git](#git)
 
 ---
+
+### Conference
+
+- [kodebox-code-chain-connect](conference/kodebox-code-chain-connect.md)
 
 ### Cpp
 
