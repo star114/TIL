@@ -14,10 +14,10 @@
 
 ## Attendees
 
-## General Outline for the training: 
+## General Outline for the training:
 https://docs.openstack.org/upstream-training/upstream-training-content.html
 
-## Sandbox project in Gerrit: 
+## Sandbox project in Gerrit:
 
 https://review.openstack.org/#/q/status:open+project:openstack-dev/sandbox
 
