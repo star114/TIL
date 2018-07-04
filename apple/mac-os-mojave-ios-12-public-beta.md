@@ -18,6 +18,14 @@
 
 [Bypass 'Safari no longer supports the unsafe extension' in macOS Mojave](https://georgegarside.com/blog/macos/install-any-safari-extension-macos-mojave/)
 
+#### Miya Translate is freezing..
+
+[AppStore link](https://itunes.apple.com/us/app/miya-translate/id1229446798?mt=12)
+
+##### Quick fix
+
+There are no known workarounds. Waiting for app update or system upgrade.
+
 ## iOS 12
 
 ### Issues
