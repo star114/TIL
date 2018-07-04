@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -39,6 +39,7 @@ _6 TILs and counting..._
 
 ### Git
 
+- [git-reflog](git/git-reflog.md)
 - [how to check the changes in merge commit](git/merge-commit-changes.md)
 
 ## Usage
