@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _7 TILs and counting..._
 * [Cpp](#cpp)
 * [Effective-cpp](#effective-cpp)
 * [Git](#git)
+* [Gtest](#gtest)
 
 ---
 
@@ -41,6 +42,10 @@ _7 TILs and counting..._
 
 - [git-reflog](git/git-reflog.md)
 - [how to check the changes in merge commit](git/merge-commit-changes.md)
+
+### Gtest
+
+- [gtest-command](gtest/gtest-command.md)
 
 ## Usage
 
