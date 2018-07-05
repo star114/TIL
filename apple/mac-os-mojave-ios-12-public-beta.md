@@ -38,6 +38,14 @@ There are no known workarounds. Waiting for app update or system upgrade.
 
 Reboot..
 
+#### Beyond Compare quits unexpectly
+
+When you create new session with text compare and paste copied test, the app exits unexpectly.
+
+##### Quick fix
+
+use file compare
+
 ## iOS 12
 
 ### Issues
