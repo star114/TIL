@@ -26,6 +26,18 @@
 
 There are no known workarounds. Waiting for app update or system upgrade.
 
+#### Sound related problems..
+
+##### Lists
+
+* Shazam is freezing..
+* BOOM 3D is freezing..
+* sound preference is freezing..
+
+##### Quick fix
+
+Reboot..
+
 ## iOS 12
 
 ### Issues
