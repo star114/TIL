@@ -151,4 +151,6 @@ reference 를 vector 의 member 로 사용할 수 없다.
 
 ## c++ core guidelines
 
+[c++ core guidelines link](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
 ## tip
