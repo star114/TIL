@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _15 TILs and counting..._
 
 - [constraints-concepts](cpp/constraints-concepts.md)
 - [covariant-return-type](cpp/covariant-return-types.md)
+- [insert-comma-as-delimeter](cpp/insert-comma-as-delimeter.md)
 - [knowledge-sharing](cpp/knowledge-sharing.md)
 - [name-lookup-rules](cpp/name-lookup-rules.md)
 
