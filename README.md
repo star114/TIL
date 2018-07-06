@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -45,6 +45,7 @@ _11 TILs and counting..._
 - [git-reflog](git/git-reflog.md)
 - [how to check the changes in merge commit](git/merge-commit-changes.md)
 - [path-git-work-tree-git-dir](git/path-git-work-tree-git-dir.md)
+- [simple-commands](git/simple-commands.md)
 
 ### Gtest
 
