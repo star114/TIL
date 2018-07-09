@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _29 TILs and counting..._
 * [Macos](#macos)
 * [Python](#python)
 * [Ssh](#ssh)
+* [Vim](#vim)
 
 ---
 
@@ -91,6 +92,10 @@ _29 TILs and counting..._
 
 - [copy-data-from-remote-to-local-clipboard-over-ssh](ssh/copy-data-from-remote-to-local-clipboard-over-ssh.md)
 - [ssh-tunneling](ssh/ssh-tunneling.md)
+
+### Vim
+
+- [vim-filename-modifiers](vim/vim-filename-modifiers.md)
 
 ## Usage
 
