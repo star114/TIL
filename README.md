@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_40 TILs and counting..._
+_41 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _40 TILs and counting..._
 
 - [case-insensitive](git/case-insensitive.md)
 - [git-config](git/git-config.md)
+- [git-new-workdir](git/git-new-workdir.md)
 - [git-reflog](git/git-reflog.md)
 - [how to check the changes in merge commit](git/merge-commit-changes.md)
 - [path-git-work-tree-git-dir](git/path-git-work-tree-git-dir.md)
