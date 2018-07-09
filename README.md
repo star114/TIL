@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_36 TILs and counting..._
+_37 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _36 TILs and counting..._
 * [Java](#java)
 * [Linux](#linux)
 * [Macos](#macos)
+* [Markdown](#markdown)
 * [Python](#python)
 * [Screen](#screen)
 * [Ssh](#ssh)
@@ -85,6 +86,10 @@ _36 TILs and counting..._
 - [defaults](macos/defaults.md)
 - [mac-os-mojave-ios-12-public-beta](macos/mac-os-mojave-ios-12-public-beta.md)
 - [precautions](macos/precautions.md)
+
+### Markdown
+
+- [markdown-cheat-sheet](markdown/markdown-cheat-sheet.md)
 
 ### Python
 
