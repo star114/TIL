@@ -6,12 +6,13 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_39 TILs and counting..._
+_40 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Algorithm](#algorithm)
 * [Cmake](#cmake)
 * [Conference](#conference)
 * [Cpp](#cpp)
@@ -30,6 +31,10 @@ _39 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+### Algorithm
+
+- [p-np-np-hard-np-complete](algorithm/p-np-np-hard-np-complete.md)
 
 ### Cmake
 
