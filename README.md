@@ -68,8 +68,8 @@ _24 TILs and counting..._
 ### Macos
 
 - [defaults](macos/defaults.md)
-- [iterm2](macos/iterm2.md)
 - [mac-os-mojave-ios-12-public-beta](macos/mac-os-mojave-ios-12-public-beta.md)
+- [precautions](macos/precautions.md)
 
 ### Python
 
