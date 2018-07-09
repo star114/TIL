@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _20 TILs and counting..._
 * [Effective-cpp](#effective-cpp)
 * [Git](#git)
 * [Gtest](#gtest)
+* [Linux](#linux)
 * [Python](#python)
 
 ---
@@ -62,6 +63,10 @@ _20 TILs and counting..._
 ### Gtest
 
 - [gtest-command](gtest/gtest-command.md)
+
+### Linux
+
+- [find-with-regex](linux/find-with-regex.md)
 
 ### Python
 
