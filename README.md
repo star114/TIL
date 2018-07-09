@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_38 TILs and counting..._
+_39 TILs and counting..._
 
 ---
 
@@ -70,6 +70,7 @@ _38 TILs and counting..._
 ### Gtest
 
 - [assert-error-void-value-not-ignored](gtest/assert-error-void-value-not-ignored.md)
+- [gtest-cheat-sheet](gtest/gtest-cheat-sheet.md)
 - [gtest-command](gtest/gtest-command.md)
 
 ### Java
