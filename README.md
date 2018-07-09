@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _21 TILs and counting..._
 ### Linux
 
 - [find-with-regex](linux/find-with-regex.md)
+- [lsof](linux/lsof.md)
 
 ### Python
 
