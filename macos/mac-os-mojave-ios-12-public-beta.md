@@ -30,8 +30,9 @@
     * use file compare till being fixed.
 * Virtualbox cannot be installed.
     * halting during installation.
-* iPython - upgrade using Homebrew
-    * do not support mojave yet.
+* Homebrew - do not support mojave yet (no installation options to build)
+    * iPython
+    * imagemagick
 
 ## iOS 12
 
