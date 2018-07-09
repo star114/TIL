@@ -12,7 +12,6 @@ _22 TILs and counting..._
 
 ### Categories
 
-* [Apple](#apple)
 * [Conference](#conference)
 * [Cpp](#cpp)
 * [Debugging](#debugging)
@@ -20,13 +19,10 @@ _22 TILs and counting..._
 * [Git](#git)
 * [Gtest](#gtest)
 * [Linux](#linux)
+* [Macos](#macos)
 * [Python](#python)
 
 ---
-
-### Apple
-
-- [mac-os-mojave-ios-12-public-beta](apple/mac-os-mojave-ios-12-public-beta.md)
 
 ### Conference
 
@@ -68,6 +64,10 @@ _22 TILs and counting..._
 
 - [find-with-regex](linux/find-with-regex.md)
 - [lsof](linux/lsof.md)
+
+### Macos
+
+- [mac-os-mojave-ios-12-public-beta](macos/mac-os-mojave-ios-12-public-beta.md)
 
 ### Python
 
