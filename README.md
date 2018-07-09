@@ -6,12 +6,13 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Cmake](#cmake)
 * [Conference](#conference)
 * [Cpp](#cpp)
 * [Debugging](#debugging)
@@ -24,6 +25,10 @@ _26 TILs and counting..._
 * [Python](#python)
 
 ---
+
+### Cmake
+
+- [cmake-print-to-console](cmake/cmake-print-to-console.md)
 
 ### Conference
 
