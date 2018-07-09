@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _25 TILs and counting..._
 * [Effective-cpp](#effective-cpp)
 * [Git](#git)
 * [Gtest](#gtest)
+* [Java](#java)
 * [Linux](#linux)
 * [Macos](#macos)
 * [Python](#python)
@@ -59,6 +60,10 @@ _25 TILs and counting..._
 ### Gtest
 
 - [gtest-command](gtest/gtest-command.md)
+
+### Java
+
+- [jenv](java/jenv.md)
 
 ### Linux
 
