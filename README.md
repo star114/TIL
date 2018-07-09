@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _23 TILs and counting..._
 
 ### Macos
 
+- [defaults](macos/defaults.md)
 - [iterm2](macos/iterm2.md)
 - [mac-os-mojave-ios-12-public-beta](macos/mac-os-mojave-ios-12-public-beta.md)
 
