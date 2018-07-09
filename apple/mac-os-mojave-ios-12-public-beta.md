@@ -18,33 +18,20 @@
 
 [Bypass 'Safari no longer supports the unsafe extension' in macOS Mojave](https://georgegarside.com/blog/macos/install-any-safari-extension-macos-mojave/)
 
-#### Miya Translate is freezing..
+#### sound preference is freezing..
 
-[AppStore link](https://itunes.apple.com/us/app/miya-translate/id1229446798?mt=12)
+#### 3rd party Applications
 
-##### Quick fix
-
-There are no known workarounds. Waiting for app update or system upgrade.
-
-#### Sound related problems..
-
-##### Lists
-
+* Miya Translate is freezing..
 * Shazam is freezing..
 * BOOM 3D is freezing..
-* sound preference is freezing..
-
-##### Quick fix
-
-Reboot..
-
-#### Beyond Compare quits unexpectly
-
-When you create new session with text compare and paste copied test, the app exits unexpectly.
-
-##### Quick fix
-
-use file compare
+* Beyond Compare quits unexpectly
+    * When you create new session with text compare and paste copied test, the app exits unexpectly.
+    * use file compare till being fixed.
+* Virtualbox cannot be installed.
+    * halting during installation.
+* iPython - upgrade using Homebrew
+    * do not support mojave yet.
 
 ## iOS 12
 
