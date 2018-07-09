@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -15,9 +15,11 @@ _16 TILs and counting..._
 * [Apple](#apple)
 * [Conference](#conference)
 * [Cpp](#cpp)
+* [Debugging](#debugging)
 * [Effective-cpp](#effective-cpp)
 * [Git](#git)
 * [Gtest](#gtest)
+* [Python](#python)
 
 ---
 
@@ -38,6 +40,12 @@ _16 TILs and counting..._
 - [knowledge-sharing](cpp/knowledge-sharing.md)
 - [name-lookup-rules](cpp/name-lookup-rules.md)
 
+### Debugging
+
+- [calculate-stack-size-from-object-dump](debugging/calculate-stack-size-from-object-dump.md)
+- [gdb-dashboard](debugging/gdb-dashboard.md)
+- [gdb-tips](debugging/gdb-tips.md)
+
 ### Effective-cpp
 
 - [ITEM 47. 타입에 대한 정보가 필요하다면 특성정보 클래스를 사용하자](effective-cpp/47.md)
@@ -54,6 +62,10 @@ _16 TILs and counting..._
 ### Gtest
 
 - [gtest-command](gtest/gtest-command.md)
+
+### Python
+
+- [running-simple-http-server](python/running-simple-http-server.md)
 
 ## Usage
 
