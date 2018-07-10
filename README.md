@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_43 TILs and counting..._
+_44 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _43 TILs and counting..._
 
 ### Git
 
+- [blame-prior-commits](git/blame-prior-commits.md)
 - [case-insensitive](git/case-insensitive.md)
 - [git-config](git/git-config.md)
 - [git-new-workdir](git/git-new-workdir.md)
