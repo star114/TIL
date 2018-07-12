@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_44 TILs and counting..._
+_45 TILs and counting..._
 
 ---
 
@@ -118,6 +118,7 @@ _44 TILs and counting..._
 ### Tmux
 
 - [tmux-cheat-sheet](tmux/tmux-cheat-sheet.md)
+- [tmux-plugins](tmux/tmux-plugins.md)
 
 ### Vim
 
