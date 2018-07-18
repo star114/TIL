@@ -22,17 +22,17 @@
 
 #### 3rd party Applications
 
-* Miya Translate is freezing..
-* Shazam is freezing..
-* BOOM 3D is freezing..
-* Beyond Compare quits unexpectly
+* Miya Translate is freezing.. (fixed in PB3)
+* Shazam is freezing.. occasionally
+* BOOM 3D is freezing.. occasionally
+* Beyond Compare quits unexpectly (fixed after BC update)
     * When you create new session with text compare and paste copied test, the app exits unexpectly.
     * use file compare till being fixed.
 * Virtualbox cannot be installed.
     * halting during installation.
 * Homebrew - do not support mojave yet (no installation options to build)
     * iPython
-    * imagemagick
+    * imagemagick (fixed after imagemagick update)
 
 ## iOS 12
 
