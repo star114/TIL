@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_45 TILs and counting..._
+_46 TILs and counting..._
 
 ---
 
@@ -95,6 +95,7 @@ _45 TILs and counting..._
 
 - [change-finder-default-sort](macos/change-finder-default-sort.md)
 - [defaults](macos/defaults.md)
+- [keyboard-shortcuts](macos/keyboard-shortcuts.md)
 - [mac-os-mojave-ios-12-public-beta](macos/mac-os-mojave-ios-12-public-beta.md)
 - [precautions](macos/precautions.md)
 
