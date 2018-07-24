@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_47 TILs and counting..._
+_48 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _47 TILs and counting..._
 * [Markdown](#markdown)
 * [Python](#python)
 * [Screen](#screen)
+* [Slack](#slack)
 * [Ssh](#ssh)
 * [Tmux](#tmux)
 * [Vim](#vim)
@@ -110,6 +111,10 @@ _47 TILs and counting..._
 ### Screen
 
 - [screen-cheat-sheet](screen/screen-cheat-sheet.md)
+
+### Slack
+
+- [color-theme](slack/color-theme.md)
 
 ### Ssh
 
