@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_46 TILs and counting..._
+_47 TILs and counting..._
 
 ---
 
@@ -125,6 +125,7 @@ _46 TILs and counting..._
 
 - [FZF](vim/fzf.md)
 - [folding](vim/folding.md)
+- [remove tabs](vim/remove-tabs.md)
 - [split-view-reize](vim/split-view-resize.md)
 - [vim-filename-modifiers](vim/vim-filename-modifiers.md)
 - [vimdiff-cheat-sheet](vim/vimdiff-cheat-sheet.md)
