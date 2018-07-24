@@ -1,6 +1,6 @@
-# remove tabs
+# remove-tabs
 
-## .viomrc
+## .vimrc
 
 ```
 set tabstop=2

@@ -125,7 +125,7 @@ _47 TILs and counting..._
 
 - [FZF](vim/fzf.md)
 - [folding](vim/folding.md)
-- [remove tabs](vim/remove-tabs.md)
+- [remove-tabs](vim/remove-tabs.md)
 - [split-view-reize](vim/split-view-resize.md)
 - [vim-filename-modifiers](vim/vim-filename-modifiers.md)
 - [vimdiff-cheat-sheet](vim/vimdiff-cheat-sheet.md)
