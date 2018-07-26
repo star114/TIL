@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_50 TILs and counting..._
+_51 TILs and counting..._
 
 ---
 
@@ -51,6 +51,7 @@ _50 TILs and counting..._
 - [constraints-concepts](cpp/constraints-concepts.md)
 - [covariant-return-type](cpp/covariant-return-types.md)
 - [data](cpp/data.md)
+- [free-function-vs-member-method](cpp/free-function-vs-member-method.md)
 - [includes-all-std-libraries](cpp/includes-all-std-libraries.md)
 - [insert-comma-as-delimeter](cpp/insert-comma-as-delimeter.md)
 - [iterator](cpp/iterator.md)
