@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_48 TILs and counting..._
+_49 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _48 TILs and counting..._
 - [covariant-return-type](cpp/covariant-return-types.md)
 - [includes-all-std-libraries](cpp/includes-all-std-libraries.md)
 - [insert-comma-as-delimeter](cpp/insert-comma-as-delimeter.md)
+- [iterator](cpp/iterator.md)
 - [knowledge-sharing](cpp/knowledge-sharing.md)
 - [name-lookup-rules](cpp/name-lookup-rules.md)
 - [private-virtual-function-inheritance](cpp/private-virtual-function-inheritance.md)
