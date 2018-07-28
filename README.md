@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_51 TILs and counting..._
+_52 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _51 TILs and counting..._
 * [Conference](#conference)
 * [Cpp](#cpp)
 * [Debugging](#debugging)
+* [Design-pattern](#design-pattern)
 * [Effective-cpp](#effective-cpp)
 * [Git](#git)
 * [Gtest](#gtest)
@@ -64,6 +65,10 @@ _51 TILs and counting..._
 - [calculate-stack-size-from-object-dump](debugging/calculate-stack-size-from-object-dump.md)
 - [gdb-dashboard](debugging/gdb-dashboard.md)
 - [gdb-tips](debugging/gdb-tips.md)
+
+### Design-pattern
+
+- [visitor](design-pattern/visitor.md)
 
 ### Effective-cpp
 
