@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_52 TILs and counting..._
+_53 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _52 TILs and counting..._
 * [Ssh](#ssh)
 * [Tmux](#tmux)
 * [Vim](#vim)
+* [Web](#web)
 
 ---
 
@@ -142,6 +143,10 @@ _52 TILs and counting..._
 - [split-view-reize](vim/split-view-resize.md)
 - [vim-filename-modifiers](vim/vim-filename-modifiers.md)
 - [vimdiff-cheat-sheet](vim/vimdiff-cheat-sheet.md)
+
+### Web
+
+- [web crawler](web/web-crawler.md)
 
 ## Usage
 
