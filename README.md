@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_53 TILs and counting..._
+_54 TILs and counting..._
 
 ---
 
@@ -37,6 +37,7 @@ _53 TILs and counting..._
 
 ### Algorithm
 
+- [clrs-17-amortized-analysis](algorithm/clrs-17-amortized-analysis.md)
 - [p-np-np-hard-np-complete](algorithm/p-np-np-hard-np-complete.md)
 
 ### Cmake
