@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _54 TILs and counting..._
 * [Debugging](#debugging)
 * [Design-pattern](#design-pattern)
 * [Effective-cpp](#effective-cpp)
+* [Gdb](#gdb)
 * [Git](#git)
 * [Gtest](#gtest)
 * [Java](#java)
@@ -75,6 +76,10 @@ _54 TILs and counting..._
 ### Effective-cpp
 
 - [ITEM 47. 타입에 대한 정보가 필요하다면 특성정보 클래스를 사용하자](effective-cpp/47.md)
+
+### Gdb
+
+- [gdb-signal](gdb/gdb-signal.md)
 
 ### Git
 
