@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_55 TILs and counting..._
+_56 TILs and counting..._
 
 ---
 
@@ -79,6 +79,7 @@ _55 TILs and counting..._
 
 ### Gdb
 
+- [disable-breakpoint-in-particular-thread](gdb/disable-breakpoint-in-particular-thread.md)
 - [gdb-signal](gdb/gdb-signal.md)
 
 ### Git
