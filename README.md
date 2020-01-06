@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_57 TILs and counting..._
+_58 TILs and counting..._
 
 ---
 
@@ -62,6 +62,7 @@ _57 TILs and counting..._
 - [knowledge-sharing](cpp/knowledge-sharing.md)
 - [name-lookup-rules](cpp/name-lookup-rules.md)
 - [private-virtual-function-inheritance](cpp/private-virtual-function-inheritance.md)
+- [string-view](cpp/string-view.md)
 
 ### Debugging
 
